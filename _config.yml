@@ -28,12 +28,12 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: IBM ISC Lille
+      location: Lille, Haut-de-France
+      title: Administrateur système AIX/Linux en alternance
+      started: 2019
+      duration: (2019 - Present)
+      description: En tant qu'étudiant en alternance chez IBM ISC Lille, mon but est d'apprendre à administrer des systèmes AIX et Linux pour le compte de différents clients. Pendant mon alternance, j'apprends également à scripter en Bash/Awk et à mettre en place différentes solutions selon les problèmes.
     - work2:
       company: XXX Ltd
       location: Shanghai, China
