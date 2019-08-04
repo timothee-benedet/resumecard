@@ -35,22 +35,6 @@ author:
       duration: (2019 - Present)
       description: En tant qu'étudiant en alternance chez IBM ISC Lille, mon but est d'apprendre à administrer des systèmes AIX et Linux pour le compte de différents clients. Pendant mon alternance, j'apprends également à scripter en Bash/Awk et à mettre en place différentes solutions selon les problèmes.
   educationHistory:
-    - education3:
-      organization: Université Lille III - Charles-de-Gaulle
-      location: Villeneuve-d'Ascq, Haut-de-France
-      degree: Licence 1 d'Histoire de l'art et Archéologie
-      major: Option Monde Médiéval
-      started: 2016
-      duration: (2016 - 2016)
-      description: Licence d'Histoire de l'art et Archéologie
-   - education2:
-      organization: Université Lille III - Charles-de-Gaulle
-      location: Villeneuve-d'Ascq, Haut-de-France
-      degree: Licence 1 d'Histoire de l'art et Archéologie
-      major: Option Égyptologie
-      started: 2014
-      duration: (2014 - 2015)
-      description: Licence d'Histoire de l'art et Archéologie
     - education1:
       organization: Lycée Arthur Rimbaud
       location: Sin-le-Noble, Haut-de-France
@@ -59,6 +43,22 @@ author:
       started: 2009
       duration: (2009 - 2014)
       description: Baccalauréat littéraire
+    - education2:
+      organization: Université Lille III - Charles-de-Gaulle
+      location: Villeneuve-d'Ascq, Haut-de-France
+      degree: Licence 1 d'Histoire de l'art et Archéologie
+      major: Option Égyptologie
+      started: 2014
+      duration: (2014 - 2015)
+      description: Licence d'Histoire de l'art et Archéologie
+    - education3:
+      organization: Université Lille III - Charles-de-Gaulle
+      location: Villeneuve-d'Ascq, Haut-de-France
+      degree: Licence 1 d'Histoire de l'art et Archéologie
+      major: Option Monde Médiéval
+      started: 2016
+      duration: (2016 - 2016)
+      description: Licence d'Histoire de l'art et Archéologie
   languages:
     - language1:
       name: Français
