@@ -1,6 +1,6 @@
 # Site settings
 title: Timothée Bénédet
-description: ddbullfrog's CV
+description: Timothée Bénédet CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://ddbullfrog.github.io/resumecard
 url: https://ddbullfrog.github.io/resumecard
@@ -14,15 +14,15 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  name: Timothée Bénédet
+  title: Étudiant alternant en BTS SIO SISR chez IBM Lille
+  address: Lille, Haut-de France
+  email: timothee.Benedet@mail.com
+  link: https://timothee-benedet.github.io/minima/
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: timothee-benedet
+  linkedin: timothee-benedet
+  twitter: TimBénédet
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
