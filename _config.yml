@@ -28,20 +28,20 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: IBM ISC Lille
-      location: Lille, Haut-de-France
-      title: Administrateur système AIX/Linux en alternance
-      started: 2019
-      duration: (2019 - Present)
-      description: En tant qu'étudiant en alternance chez IBM ISC Lille, mon but est d'apprendre à administrer des systèmes AIX et Linux pour le compte de différents clients. Pendant mon alternance, j'apprends également à scripter en Bash/Awk et à mettre en place différentes solutions selon les problèmes.
-    - work2:
       company: Garantie Jeune
       location: Sin-le-Noble, Haut-de-France
       title: Médiateur de la lutte contre la fracture numérique
       started: 2018
       duration: (2018 - 2018)
       description: Aider les jeunes à s’approprier les usages ou outils numériques. Les missions : Favoriser les échanges entre jeunes, rassurer, expliquer le fonctionnement de l’espace numérique, participer à l’animation d’actions ponctuelles ou ateliers de prévention dans l’usage des réseaux sociaux et des blogs (informations publiques, privées, e-réputation, etc.). 
- educationHistory:
+    - work2:
+      company: IBM ISC Lille
+      location: Lille, Haut-de-France
+      title: Administrateur système AIX/Linux en alternance
+      started: 2019
+      duration: (2019 - Present)
+      description: En tant qu'étudiant en alternance chez IBM ISC Lille, mon but est d'apprendre à administrer des systèmes AIX et Linux pour le compte de différents clients. Pendant mon alternance, j'apprends également à scripter en Bash/Awk et à mettre en place différentes solutions selon les problèmes.
+educationHistory:
     - education1:
       organization: Lycée Arthur Rimbaud
       location: Sin-le-Noble, Haut-de-France
